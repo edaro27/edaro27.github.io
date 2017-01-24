@@ -96,3 +96,15 @@ q {
 #bar{
 	font-size: 1.5em;
 }
+
+.somos, .coright{
+	text-align: center;
+}
+
+.coright{
+	padding-top:10px;
+}
+
+.bottom{
+	background-color: #eeeeee;
+}
